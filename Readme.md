@@ -1,7 +1,4 @@
 # 👨‍💻 Omar Aedo Alvarez
-
-**📍 Lima, Perú**  
-**📧 [omar.aedo.alvarez@gmail.com](mailto:omar.aedo.alvarez@gmail.com)**  
 **🎓 Estudiante de Ingeniería Informática en la PUCP**  
 
 ---
@@ -17,28 +14,6 @@ Soy estudiante de octavo ciclo de Ingeniería Informática en la Pontificia Univ
 
 ---
 
-## 💼 Experiencia Profesional
-
-**Frontend Developer | Arife**  
-_enero 2024 - marzo 2024_  
-- 🔧 Desarrollé interfaces web **responsivas** y trabajé con equipos **multidisciplinarios**.
-- 🚀 Realicé **investigación y desarrollo** de soluciones frontend.
-- 🛠️ Tomé decisiones técnicas basadas en **investigación** y **mejores prácticas**.
-
----
-
-## 📚 Educación
-
-**Ingeniería Informática**  
-Pontificia Universidad Católica del Perú (PUCP) | _2020 - Actualidad_  
-
-**Certificados y Cursos:**
-- 🎯 **React & Next.js**: _The Ultimate React Course_ (Udemy) | 2024 - Actualidad
-- 🖥️ **HTML5 y CSS**: _Built Responsive Real-World Websites with HTML and CSS_ (Udemy) | 2023
-- 🐍 **Python**: _Programming for Everybody_ (University of Michigan - Coursera) | 2021
-
----
-
 ## 🌐 Habilidades Técnicas
 
 - **Lenguajes**:  
@@ -48,14 +23,6 @@ Pontificia Universidad Católica del Perú (PUCP) | _2020 - Actualidad_
 
 - **Herramientas y Tecnologías**:  
   - Intermedio: **Excel**, **Power BI**, **R Studio**, **Bizagi**
-
----
-
-## 🌍 Idiomas
-
-- **Español**: Nativo  
-- **Inglés**: Profesional  
-- **Italiano**: Básico
 
 ---
 
