@@ -22,7 +22,7 @@ I am a Computer Engineering student at Pontificia Universidad Cat√≥lica del Per√
   - Basic: **PHP**
 
 - **Tools and Technologies**:  
-  - Intermediate: **Excel**, **Power BI**, **R Studio**, **Bizagi**
+  - Intermediate: **Git**,**GitHub**, **Power BI**, **R Studio**, **Bizagi**
 
 ---
 
