@@ -17,12 +17,11 @@ I am a Computer Engineering student at Pontificia Universidad Católica del Per�
 ## 🌐 Technical Skills
 
 - **Languages**:  
-  - Advanced: **C**, **C++**, **Java**, **HTML5**, **CSS**, **React**, **Tailwind**, **JavaScript**  
-  - Intermediate: **Python**, **SQL**  
+  - Advanced: **C**, **C++**, **Java**, **HTML5**, **CSS**, **React**, **Tailwind**, **JavaScript**, **Python**, **SQL**  
   - Basic: **PHP**
 
 - **Tools and Technologies**:  
-  - Intermediate: **Git**,**GitHub**, **Power BI**, **R Studio**, **Bizagi**
+  - Intermediate: **Git**,**GitHub**,**Django**,**Power BI**.
 
 ---
 
